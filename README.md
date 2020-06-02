@@ -1,5 +1,5 @@
 # WhatsApp-Clone
-<b>WhatsApp clone UI template using Flutter<b>
+<b>WhatsApp UI clone template using Flutter<b>
 <br><br>
 <img src="https://github.com/Sukhani13/WhatsApp-Clone/blob/master/Images/ChatScreen.png" width="250" height="500">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
